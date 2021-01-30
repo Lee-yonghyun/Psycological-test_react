@@ -1,5 +1,5 @@
 //action은 type을 가지고 있어야 하며, 사용자가 선택한 순수한 심리테스트의 정보를 전달한다.
-export const SiGN_IN = "SIGN_IN";
+export const SIGN_IN = "SIGN_IN";
 
 // 설문조사 시작 action
 export const signInAction = (userState) => {
